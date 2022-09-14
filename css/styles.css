@@ -20,7 +20,7 @@
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #9575CD ;
+    background: #9575CD;
     color:floralwhite;
 }
 
@@ -37,4 +37,18 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.reverse {
+    background-color: orange;
+    color: black;
+    padding: 0.5rem 3rem;
+}
+
+.button-reverse {
+    margin: auto;
 }
